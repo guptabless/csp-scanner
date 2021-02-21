@@ -17,11 +17,11 @@ This is a lightweight tool that scans for the whitelisted URL in the CSP header.
 
 ## usage: 
 
-csp.py  -u < Valid URL with http:// or https:// >
+csp.py  -u < Valid URL with http:// or https:// or a file with multiple urls>
 
 OPTIONS: 
 
 ```
--u            valid URL with http:// or https://
+-u            valid URL with http:// or https:// or a file with multiple urls
   		
 ```
